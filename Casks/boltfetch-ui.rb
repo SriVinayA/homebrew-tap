@@ -10,7 +10,7 @@ cask "boltfetch-ui" do
   homepage "https://github.com/SriVinayA/BoltFetch"
 
   # The name of the .app file inside the DMG. Tauri named yours "ui.app" by default.
-  app "ui.app", target: "BoltFetch.app" 
+  app "BoltFetch.app", target: "BoltFetch.app" 
 
   zap trash: [
     "~/Library/Application Support/com.srivinaya.ui",
