@@ -1,10 +1,10 @@
 cask "boltfetch-ui" do
-  version "0.2.0"
+  version "0.2.1"
   # Replace with the sha256 hash you generated for the DMG file
-  sha256 "600f3cdc80dce925f5d1a58c635796d379bdc92b85e07b637ed94050c1f611a7"
+  sha256 "a052eae6fed6f2c5571c579ddb10392cf206d75f40cd814c749da862b5c78599"
 
   # Replace with the actual URL of the DMG file you uploaded to the GitHub Release
-  url "https://github.com/SriVinayA/BoltFetch/releases/download/v0.2.0/BoltFetch_0.2.0_aarch64.dmg"
+  url "https://github.com/SriVinayA/BoltFetch/releases/download/v0.2.1/BoltFetch_0.2.1_aarch64.dmg"
   name "BoltFetch"
   desc "A blazing-fast, multi-threaded download manager with a native UI"
   homepage "https://github.com/SriVinayA/BoltFetch"
